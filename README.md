@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. Adoro criar soluções eficientes e aprender novas ferramentas.
+Sou Programador
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -11,13 +11,6 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. Adoro cr
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-## 💼 Projetos Recentes
-
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luizHScotta&show_icons=true&theme=dracula)
-
 
 ## 📫 Entre em Contato
 
@@ -25,6 +18,14 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. Adoro cr
 [![Gmail Badge](https://img.shields.io/badge/-luizhgscotta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luizhgscotta@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/-ScottaDev-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@ScottaDev)
 [![Instagram Badge](https://img.shields.io/badge/-@scotta.dev-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/scotta.dev/)
+
+
+## 💼 Projetos Recentes
+
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luizHScotta&show_icons=true&theme=dracula&include_all_commits=true)
 
 
 ## 🌟 Vamos Conectar!
