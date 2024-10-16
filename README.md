@@ -14,9 +14,10 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. Adoro cr
 ## 💼 Projetos Recentes
 
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luizHScotta&show_icons=true&theme=dracula)
+
 
 ## 📫 Entre em Contato
 
