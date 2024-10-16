@@ -1,4 +1,4 @@
-# Olá, eu sou o João! 👋
+# Olá, eu sou o Luiz Scotta! 👋
 
 ## 🚀 Sobre Mim
 
@@ -13,8 +13,6 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. Adoro cr
 
 ## 💼 Projetos Recentes
 
-- [Projeto Exemplo](https://github.com/seuusuario/projeto-exemplo): Aplicação web para gerenciamento de tarefas.
-- [Outro Projeto](https://github.com/seuusuario/outro-projeto): API RESTful para serviços financeiros.
 
 ## 📈 Estatísticas do GitHub
 
@@ -22,8 +20,11 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. Adoro cr
 
 ## 📫 Entre em Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Silva-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil/)](https://www.linkedin.com/in/seu-perfil/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Scotta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-scotta-450572213/)
+[![Gmail Badge](https://img.shields.io/badge/-luizhgscotta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luizhgscotta@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-ScottaDev-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@ScottaDev)
+[![Instagram Badge](https://img.shields.io/badge/-@scotta.dev-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/scotta.dev/)
+
 
 ## 🌟 Vamos Conectar!
 
